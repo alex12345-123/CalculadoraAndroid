@@ -1,5 +1,22 @@
 <resources>
     <string name="app_name">Calculadora</string>
     <string name="titulo">calculadora</string>
-    <string name="numero_por_defecto">0</string>
+    <string name="numero_por_defecto">...</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_sumar">+</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_restar">-</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_multiplicar">*</string>
+    <string name="btn_decimal">.</string>
+    <string name="btn_0">0</string>
+    <string name="btn_barra">/</string>
+    <string name="btn_igual">=</string>
+    <string name="btn_clear">CLEAR</string>
 </resources>
