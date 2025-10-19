@@ -6,3 +6,6 @@
       a otro boton, los bloques se movian inesperadamente
 1. Advertencia de colores
    - Esto pasa cuando los colores del texto y los del fondo pueden afectar visualmente al usuario
+
+## Imagen de Ejecucion 
+<img src="img/EjeMovil.png">
